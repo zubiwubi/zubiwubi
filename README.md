@@ -1,4 +1,5 @@
-## A curious creative looking for a spot in cybersecurity o7 ✦
+## ✦ *A curious creative looking for her spot in cybersecurity...* 
+
 
 Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :)
 
@@ -37,7 +38,7 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 
 ### ✨ Fun Facts ✨
   - I have a Japanese Language Proficiency Certificate at A2 level
-  - I have a bachelor in Game Art, thanks to that I have a good grasp on visual design philosophies
+  - I have a bachelor in Game Art, thanks to that I have a good grasp on design philosophies
   - I value human-made media
   - I love fighting games and often engage in community-hosted tournaments
   - If you're curious about my Game Art portfolio it can be found here: https://www.artstation.com/zubaydah
