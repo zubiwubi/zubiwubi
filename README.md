@@ -27,9 +27,9 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 <h2 align="center"> 🌱 Currently working on these projects! (Sep. - Jan. 2026) 🌱 </h2>  
   <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript + ASP.NET Core (C#)) </b>
     <!-- <a href="https://github.com/zubiwubi/INF2-WAD-26">📚 Web App.'s Repository here!</a></b> -->
-    Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access.
-    <br>
-  <p align="center"> <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </p> </div>
+    <p> Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access. </p>
+<br>
+  <p align="center"> <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </div>
 <br>
 <br>
 <div align="center"> <b> 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring) </b><br>
@@ -38,11 +38,11 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   
 ## ✦
 
-### ✨ Fun Facts  --
-  - I have a bachelor in Game Art, I value human-made media a lot and have a good grasp on visual design philosophies
-  - I love fighting games and often engage in community-hosted tournaments
+### ✨ Fun Facts ✨
   - I have a Japanese Language Proficiency Certificate at A2 level
-  - I do Brazilian Jiu Jitsu
+  - I have a bachelor in Game Art, thanks to that I have a good grasp on visual design philosophies
+  - I value human-made media
+  - I love fighting games and often engage in community-hosted tournaments
 
 
 <!--
