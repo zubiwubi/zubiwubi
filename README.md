@@ -53,14 +53,13 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - I have a bachelor in Game Art, thanks to that I have a good grasp on design philosophies
   - I value human-made media
   - I love fighting games and often engage in community-hosted tournaments
-  - If you're curious about my Game Art portfolio it can be found here: https://www.artstation.com/zubaydah
 
 ## <p align="center"> ✦ </p>
 <!--
 **zubiwubi/zubiwubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+  - If you're curious about my Game Art portfolio it can be found here: https://www.artstation.com/zubaydah
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
