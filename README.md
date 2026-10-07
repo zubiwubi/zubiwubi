@@ -28,7 +28,7 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 ### ⭐ Project Showcase --
 These are projects I've contributed the most to code-wise and that I've worked on my time as student.
   #### 1. Object Oriented Programming Reservation System in C# 📚 [OODP's Repository here!](https://github.com/zubiwubi/Object-Oriented-Design-Programming/tree/main)
-  ![](https://github.com/zubiwubi/zubiwubi/blob/main/HollowMere%20Preview.gif)
+  ![](https://github.com/zubiwubi/zubiwubi/blob/main/Rotterdam%20Cinema%20preview.gif)
 
 ### ✨ Fun Facts  --
   - I have a bachelor in Game Art, I value human-made media a lot and have a good grasp on visual design philosophies
