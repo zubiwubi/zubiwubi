@@ -16,8 +16,8 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - REACT
   
 ### 🌱 I’m currently working on --
-  - (add WAD gifs)
-  - (add WAD repo)
+![](https://github.com/zubiwubi/zubiwubi/blob/main/HollowMere%20Preview.gif)
+  - From [Web App Development](https://github.com/zubiwubi/INF2-WAD-26) 
   
   - (add SCP gifs)
   - (add SCP repo) 
