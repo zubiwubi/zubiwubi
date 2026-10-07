@@ -23,7 +23,7 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 
   
 <h2 align="center"> 🌱 Ongoing School Projects! (Sep. '26 - Jan. 27) 🌱 </h2>  
-  <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript + ASP.NET Core (C#)) </b>
+  <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript, Node.js, C# </b>
     <!-- <a href="https://github.com/zubiwubi/INF2-WAD-26">📚 Web App.'s Repository here!</a></b> -->
     <p> Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access. </p>
 <br>
@@ -33,7 +33,15 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 <div align="center"> <b> 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring) </b><br>
     <!-- <a href="https://github.com/PieterLandaal/CargoHub_Group3">📚 SCP.'s Repository here!</a></b> -->
 <p> With a team of four, we're currently transforming less-than-stellar Python software into an improved application by implementing automated CI/CD pipelines, Docker containerization, and  testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies. </p></div>
-  
+
+<h2 align="center"> 🌀 Ongoing Personal Projects (Sep. '26 - Jan. 27) 🌀 </h2>  
+  <div align="center"> <b> ★. Artist Portfolio Website (Full-Stack | React, TypeScript, Node.js </b>
+    <a href="https://github.com/zubiwubi/Artist-Portfolio-Website">📚 Artist Portfolio Website's Repository here!</a></b> 
+    <p> NOTE: Not a demonstration of my design skills! This project serves as a playground I use to experiment with everything regarding TypeScript, REACT and HTML. </p>
+<br>
+  <p align="center"> <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </div>
+<br>
+<br>
 ## ✦
 
 ### ✨ Fun Facts ✨
