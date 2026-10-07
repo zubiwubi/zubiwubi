@@ -3,18 +3,14 @@
 Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :)
 
 ### 🔭 Current Tech Interests --
-  - Cybersecurity (https://pwn.college/welcome/)
-  - APIs
+  - Cybersecurity 
   - Learning to switch from Windows to Linux
   - De-Googling & Securing my privacy
     
-### 🛠️ Tools --
+### Languages
   - C#
-  - Python
   - C++
-  - JavaScript
-  - REACT
-  - (Both projects make use of Gitflow & SCRUM)
+  - Python
 
 <h2 align="center"> ⭐ Completed Project Showcase ⭐ </h2>
   <div align="center"> <b> Object Oriented Programming Reservation System in C# 
@@ -43,8 +39,9 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - I have a bachelor in Game Art, thanks to that I have a good grasp on visual design philosophies
   - I value human-made media
   - I love fighting games and often engage in community-hosted tournaments
+  - If you're curious about my Game Art portfolio it can be found here: https://www.artstation.com/zubaydah
 
-
+## ✦
 <!--
 **zubiwubi/zubiwubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,4 +55,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+(https://pwn.college/welcome/)
+  - APIs
 -->
