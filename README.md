@@ -22,7 +22,6 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - Currently building a secure, full-stack web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access.
   
 #### 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring) - [📚 SCP.'s Repository here!](https://github.com/PieterLandaal/CargoHub_Group3)
-  - (add SCP gifs)
   - With a team of four, we're currently transforming less-than-stellar Python software into an improved production-ready application by implementing automated CI/CD pipelines (GitHub Actions), Docker containerization, and comprehensive testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies.
 
 ### ⭐ Project Showcase --
@@ -31,11 +30,10 @@ These are projects I've contributed the most to code-wise and that I've worked o
   ![](https://github.com/zubiwubi/zubiwubi/blob/main/Rotterdam%20Cinema%20preview.gif)
 
 ### ✨ Fun Facts  --
-  - I have a bachelor in Game Art, I value human-made media a lot and have a good grasp on visual design philosophies
+  - I have a bachelor in Game Art, I value human-made media a lot and have a deep understanding of visual design philosophies
   - I love fighting games and engage in community-hosted tournaments
   - I have a Japanese Language Proficiency Certificate at A2 level
   - I do Brazilian Jiu Jitsu
-  - I love nature and sustainability
 
 
 
