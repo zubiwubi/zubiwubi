@@ -15,14 +15,14 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - Python
 
 <h2 align="center"> ⭐ Completed Project Showcase ⭐ </h2>
-  <div align="center"> <b> Object Oriented Programming Reservation System in C# (2026)
+  <div align="center"> <b> Object Oriented Programming Reservation System in C# (Jan. 2026)
     <a href="https://github.com/zubiwubi/Object-Oriented-Design-Programming/tree/main">📚 OODP's Repository here!</a></b><br>
     <p> Using C#, SQLite, Three-Layer-Architecture, Git and Scrum </p>
     <br>
   <p align="center"> <img src="./Rotterdam Cinema preview.gif" width="700" alt="Web App. Preview" /> </p> </div>
 
   
-<h2 align="center"> 🌱 Currently working on these projects! (Sep. - Jan. 2026) 🌱 </h2>  
+<h2 align="center"> 🌱 Currently working on these projects! (Sep. '26 - Jan. 27) 🌱 </h2>  
   <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript + ASP.NET Core (C#)) </b>
     <!-- <a href="https://github.com/zubiwubi/INF2-WAD-26">📚 Web App.'s Repository here!</a></b> -->
     <p> Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access. </p>
