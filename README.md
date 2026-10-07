@@ -25,10 +25,9 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - (add SCP gifs)
   - With a team of four, we're currently transforming less-than-stellar Python software into an improved production-ready application by implementing automated CI/CD pipelines (GitHub Actions), Docker containerization, and comprehensive testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies.
 
-### 📚 Project Showcase --
+### ⭐ Project Showcase --
 These are projects I've contributed the most to code-wise and that I've worked on my time as student.
-  - (add OODP gifs and repo)
-  - (add Basecamp knowledge)
+  #### 1. Object Oriented Programming Reservation System in C# 📚 [OODP's Repository here!](https://github.com/zubiwubi/Object-Oriented-Design-Programming/tree/main)
 
 ### ✨ Fun Facts  --
   - I have a bachelor in Game Art, I value human-made media a lot and have a good grasp on visual design philosophies
