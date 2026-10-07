@@ -33,7 +33,8 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 <div align="center"> <b> 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring) </b><br>
     <!-- <a href="https://github.com/PieterLandaal/CargoHub_Group3">📚 SCP.'s Repository here!</a></b> -->
 <p> With a team of four, we're currently transforming less-than-stellar Python software into an improved application by implementing automated CI/CD pipelines, Docker containerization, and  testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies. </p></div>
-
+<br>
+<br>
 <h2 align="center"> 🌀 Ongoing Personal Projects 🌀 </h2>  
   <div align="center"> <b> ★. Artist Portfolio Website (Full-Stack | React, TypeScript, Node.js </b>
     <a href="https://github.com/zubiwubi/Artist-Portfolio-Website">📚 Artist Portfolio Website's Repository here!</a></b> 
