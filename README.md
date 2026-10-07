@@ -14,26 +14,28 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - C++
   - JavaScript
   - REACT
+  - (Both projects make use of Gitflow & SCRUM)
 
-### ⭐ Completed Project Showcase ⭐
-  <div align="center"> <b> 
-    Object Oriented Programming Reservation System in C# 
+<h2 align="center"> ⭐ Completed Project Showcase ⭐ </h2>
+  <div align="center"> <b> Object Oriented Programming Reservation System in C# 
     <a href="https://github.com/zubiwubi/Object-Oriented-Design-Programming/tree/main">📚 OODP's Repository here!</a></b><br>
     Using C#, SQLite, Three-Layer-Architecture, Git and Scrum
+
   <p align="center"> <img src="./Rotterdam Cinema preview.gif" width="700" alt="Web App. Preview" /> </p> </div>
+
   
-  
-### 🌱 Current Semester (Sep. - Jan. 2026)
-(Both projects make use of Gitflow & SCRUM)
-#### 1. Web App. Development (Full-Stack | React, TypeScript + ASP.NET Core (C#)) - [📚 Web App.'s Repository here!](https://github.com/zubiwubi/INF2-WAD-26) 
-  <p align="center">
-  <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </p>
-  - 
-  - Currently building a secure, full-stack web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access.
-  
-#### 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring) - [📚 SCP.'s Repository here!](https://github.com/PieterLandaal/CargoHub_Group3)
-  - With a team of four, we're currently transforming less-than-stellar Python software into an improved production-ready application by implementing automated CI/CD pipelines (GitHub Actions), Docker containerization, and comprehensive testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies.
-  
+<h2 align="center"> 🌱 Currently working on these projects! (SEMESTER 2: Sep. - Jan. 2026) 🌱 </h2>  
+  <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript + ASP.NET Core (C#))
+    <a href="https://github.com/zubiwubi/INF2-WAD-26">📚 Web App.'s Repository here!</a></b><br>
+    Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access.
+
+  <p align="center"> <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </p> </div>
+
+
+<div align="center"> <b> 2. Software Construction & Processing (DevOps Engineer | CI/CD Pipelines, Docker & Legacy Code Refactoring)
+    <a href="https://github.com/PieterLandaal/CargoHub_Group3">📚 SCP.'s Repository here!</a></b><br>
+With a team of four, we're currently transforming less-than-stellar Python software into an improved production-ready application by implementing automated CI/CD pipelines (GitHub Actions), Docker containerization, and comprehensive testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies. </div>
+
 
 ### ✨ Fun Facts  --
   - I have a bachelor in Game Art, I value human-made media a lot and have a good grasp on visual design philosophies
