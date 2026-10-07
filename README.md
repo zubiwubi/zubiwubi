@@ -2,7 +2,7 @@
 
 Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :)
 
-### 🔭 Current Tech Interests --
+### 🔭 Current Tech Interests
   - Cybersecurity
   - APIs
   - Attempting to switch from Windows to Linux
