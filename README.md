@@ -23,14 +23,14 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 <br>
 <br>
 <h2 align="center"> 🌱 Ongoing School Projects! (Sep. '26 - Jan. 27) 🌱 </h2>  
-  <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript, Node.js, C# </b>
+  <div align="center"> <b> 1. Web App. Development (Full-Stack | React, TypeScript, Node.js, C#) </b>
     <!-- <a href="https://github.com/zubiwubi/INF2-WAD-26">📚 Web App.'s Repository here!</a></b> -->
     <p> Currently building a secure, front- and backend web application in a team of five using an agile workflow. We will learn how to create responsive UI with client-side routing, integrated a RESTful API with an ORM, and implement JWT authentication for secure user access. </p>
 <br>
   <p align="center"> <img src="./HollowMere Preview.gif" width="700" alt="Web App. Preview" /> </div>
 <br>
 <br>
-<div align="center"> <b> 2. Software Construction & Processing CI/CD Pipelines, Docker & Legacy Code Refactoring) </b><br>
+<div align="center"> <b> 2. Software Construction & Processing (DevOps | CI/CD Pipelines, Docker & Code Refactoring) </b><br>
     <!-- <a href="https://github.com/PieterLandaal/CargoHub_Group3">📚 SCP.'s Repository here!</a></b> -->
 <p> With a team of four, we're currently transforming less-than-stellar Python software into an improved application by implementing automated CI/CD pipelines, Docker containerization, and  testing suites. We have to analyse the given code and then perform refactoring to improve maintainability and secure dependencies. </p></div>
 <br>
