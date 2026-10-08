@@ -52,7 +52,8 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
   - I have a bachelor in Game Art, thanks to that I have a deep understanding of design philosophies
   - I have a Japanese Language Proficiency Certificate at A2 level
   - I love fighting games and often engage in community-hosted tournaments
-  - I'm a creative at heart, I value human made media & sustainability
+  - I'm a creative at heart, I value human made media & sustainability <br>
+
 Needless to say, my passion is to learn and grow
 
 ## <p align="center"> ✦ </p>
