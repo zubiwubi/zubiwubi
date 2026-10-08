@@ -49,10 +49,11 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
 ## <p align="center"> ✦ </p>
 
 ### ✨ Fun Facts ✨
+  - I have a bachelor in Game Art, thanks to that I have a deep understanding of design philosophies
   - I have a Japanese Language Proficiency Certificate at A2 level
-  - I have a bachelor in Game Art, thanks to that I have a good grasp on design philosophies
-  - I value human-made media
   - I love fighting games and often engage in community-hosted tournaments
+  - I'm a creative at heart, I value human made media & sustainability
+Needless to say, my passion is to learn and grow
 
 ## <p align="center"> ✦ </p>
 <!--
