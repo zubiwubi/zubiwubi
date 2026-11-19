@@ -4,7 +4,7 @@
 Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :) Everything I make is created by me. I like doing things head on, problem solving and most importantly: LEARNING! I don't do vibecoding.
 
 ### 🔭 Current Tech Interests
-  - Cybersecurity
+  - AppSec
   - APIs
   - Linux desktop & servers
   - De-Googling & securing my privacy
