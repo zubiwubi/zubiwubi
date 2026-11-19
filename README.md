@@ -1,7 +1,7 @@
 ## <p align="center"> ✦ </p>  *A curious creative looking for her spot in cybersecurity...* 
 
 
-Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :)
+Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :) Everything I make is created by me. I like doing things head on, problem solving and most importantly: LEARNING! I don't do vibecoding.
 
 ### 🔭 Current Tech Interests
   - Cybersecurity
