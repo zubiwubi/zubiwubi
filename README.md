@@ -1,7 +1,7 @@
 ## <p align="center"> ✦ </p>  *A curious creative looking for her spot in cybersecurity...* 
 
 
-Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :) Everything I make is created by me. I like doing things head on, problem solving and most importantly: LEARNING! I don't do vibecoding.
+Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning, growing and working together :) Everything I make is created by me. I like doing things head on, problem solving and most importantly: LEARNING!
 
 ### 🔭 Current Tech Interests
   - AppSec
@@ -42,6 +42,7 @@ Nice to meet you! I go by Zubi. I'm a creative ComSci student who loves learning
     This project serves as a playground I use to experiment with everything regarding TypeScript, REACT and HTML as I follow my lectures and tutorials such as The Odin Project. </p>
 <br>
   <p align="center"> <img src="./WebsitePreview.gif" width="700" alt="Web App. Preview" /> </div>
+  <p align="center"> <img src="./React.gif" width="700" alt="Web App. Preview" /> </div>
 <br>
 <!-- <div align="center"> <b> ★. Cybersecurity Selfstudy </b>
 <p> Currently following along with challenges from https://pwn.college/welcome/ & https://www.hackthissite.org/ to gain a greater knowlegde <br> </p> </div> -->
